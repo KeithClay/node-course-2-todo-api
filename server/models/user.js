@@ -10,7 +10,7 @@ var User = mongoose.model('User', {
 });
 
 // var user = new User({
-//   email: 'keithclay59@gmail.com    '
+//   email: 'conorclay303@gmail.com    '
 // });
 //  user.save().then ((doc) => {
 //    console.log(JSON.stringify(doc, undefined, 2));
