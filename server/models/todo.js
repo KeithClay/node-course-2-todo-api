@@ -19,16 +19,6 @@ var Todo = mongoose.model('Todo', {
 
 module.exports = {Todo};
 
-// var newTodo = new Todo ({
-//   text: 'Cook dinner'
-// });
-//
-// newTodo.save().then ((doc) => {
-//   console.log('Saved todo', doc);
-// }, (e) => {
-//   console.log('Unable to save Todo')
-// });
-
 // var otherTodo = new Todo ({
 //   text: ''
 // });
