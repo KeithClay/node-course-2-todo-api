@@ -18,13 +18,3 @@ var Todo = mongoose.model('Todo', {
 });
 
 module.exports = {Todo};
-
-// var otherTodo = new Todo ({
-//   text: ''
-// });
-//
-// otherTodo.save().then ((doc) => {
-//   console.log(JSON.stringify(doc, undefined, 2));
-// }, (e) => {
-//   console.log('Unable to save Todo', e)
-// });
